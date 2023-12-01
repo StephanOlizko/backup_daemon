@@ -1,0 +1,9 @@
+[Unit]
+Description=Backup Daemon
+
+[Service]
+ExecStart=/home/stepa/daemon/daemon
+Restart=always
+
+[Install]
+WantedBy=default.target
