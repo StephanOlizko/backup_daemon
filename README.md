@@ -1,4 +1,4 @@
-# Project Title
+# Backup_daemon
 
 This project contains a backup daemon written in C++. The daemon monitors a specified directory and backs up any new or modified files to a backup directory.
 
